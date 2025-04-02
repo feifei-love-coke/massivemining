@@ -1,1 +1,5 @@
 # massivemining
+coding1为输出相似文件的编号并且输出Jaccard相似度的分数
+coding2为进行对参数b和r的调节，对b和r进行参数分析
+coding3为对结果的相似文件产生热力图（前100个）
+coding4为误判概率的输出，但是没有取得有效的结果，期待日后的改进
